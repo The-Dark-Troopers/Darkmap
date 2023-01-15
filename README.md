@@ -7,11 +7,11 @@
 
 ## Kali Linux and Parrot Security
 
-### Step 1. git clone
+### Step 1. git clone https://github.com/The-Dark-Troopers/Darkmap.git
 
 ### Step 2. cd Darkmap/
 
-### Step 3. pip install python-nmap
+### Step 3. pip install python-nmap && pip install pycryptodome
 
 ### Step 4. python3 darkmap.py --help
 
@@ -21,7 +21,7 @@
 
 ## Termux
 
-### Step 1. git clone
+### Step 1. git clone https://github.com/The-Dark-Troopers/Darkmap.git
 
 ### Step 2. cd Darkmap/
 
